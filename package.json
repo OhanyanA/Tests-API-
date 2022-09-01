@@ -1,7 +1,7 @@
 {
   "name": "api-with-cypress",
   "version": "1.0.0",
-  "main": "cypress/e2e/ApiTest.cy.js",
+  "main": "cypress/e2e/user1.cy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
